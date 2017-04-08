@@ -1,0 +1,13 @@
+lastUpgrade=00936
+proj.pluginVersion=0.9.36
+proj.AppId=39830286647
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0a%3c%21--%0aGoogle+Play+game+services+IDs.%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0a--%3e%0a%3cresources%3e%0a++%3cstring+name%3d%22app_id%22%3e39830286647%3c%2fstring%3e%0a++%3cstring+name%3d%22leaderboard_com.linestop.leaderboard%22%3eCgkIt-LHsJQBEAIQAA%3c%2fstring%3e%0a%3c%2fresources%3e%0a
+and.ClientId=39830286647-aiosm1n73oipe0shribg688162smq843.apps.googleusercontent.com
+proj.requireGPlus=false
+android.SetupDone=true
+ios.ClientId=39830286647-aiosm1n73oipe0shribg688162smq843.apps.googleusercontent.com
+ios.BundleId=com.dtlabs.linestop
+ios.ResourceData=%23define+CLIENT_ID+%40%2239830286647-aiosm1n73oipe0shribg688162smq843.apps.googleusercontent.com%22%0a%23define+BUNDLE_ID+%40%22com.dtlabs.linestop%22%0a%23define+ACH_UNLOCKED_ACHIEVEMENT_1+%40%22CgkIt-LHsJQBEAIQAg%22%0a%23define+ACH_UNLOCKED_ACHIEVEMENT_2+%40%22CgkIt-LHsJQBEAIQAw%22%0a%23define+ACH_UNLOCKED_ACHIEVEMENT_3+%40%22CgkIt-LHsJQBEAIQBA%22%0a%23define+ACH_UNLOCKED_ACHIEVEMENT_4+%40%22CgkIt-LHsJQBEAIQBQ%22%0a%23define+ACH_UNLOCKED_ACHIEVEMENT_5+%40%22CgkIt-LHsJQBEAIQBg%22%0a%23define+LEAD_COMLINESTOPLEADERBOARD+%40%22CgkIt-LHsJQBEAIQAA%22%0a
+ios.SetupDone=true
